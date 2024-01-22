@@ -1,10 +1,10 @@
 ![git zorro](giphy-zorro.gif)
 ## Bienvenid@s al GitHub de Luis Haranki 
-![banner de luis Haranki](banner-luis-haranki.png)
+![banner de luis Haranki](Banner-luis-haranki.png)
 ### Contáctame en:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 --
-Ingeniero electricista con una pasión autodidacta por la progrmación :smile::zap:. Siempre buscando aprender y crecer en el fascinante mundo del desarrollo de software :computer:. Comprometido con el aprendizaje continuo y entusiasmado por enfrentar nuevos desafíos en el campo de la programación:pencil2::blue_book::muscle:.
+Ingeniero electricista con pasión por la progrmación :zap:. Siempre buscando aprender y crecer en el fascinante mundo del desarrollo de software :computer:. Comprometido con el aprendizaje continuo y entusiasmado por enfrentar nuevos desafíos en el campo de la programación:pencil2::blue_book::muscle:.
 
 ## Tecnologias :computer:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
